@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-g++ read.cpp SimpleGPI_SPI.cpp -o read

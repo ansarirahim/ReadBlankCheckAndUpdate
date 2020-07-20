@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-g++ blanckCheckAndFF64K.cpp -o blanckCheckAndFF64K SimpleGPI_SPI.cpp

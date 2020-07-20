@@ -1,0 +1,2 @@
+
+arm-linux-gnueabihf-g++ readCompareCrcUpdate.cpp -o readCompareCrcUpdate SimpleGPI_SPI.cpp

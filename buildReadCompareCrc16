@@ -1,0 +1,2 @@
+
+arm-linux-gnueabihf-g++ readCompareCrc16.cpp -o readCompareCrc16 SimpleGPI_SPI.cpp
