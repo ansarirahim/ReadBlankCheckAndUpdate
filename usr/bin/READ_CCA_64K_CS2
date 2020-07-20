@@ -1,0 +1,3 @@
+#!/bin/bash
+RELAY_CS2
+READ_CCA_MEMORY64K "$@"

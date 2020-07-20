@@ -1,0 +1,5 @@
+#!/bin/bash
+#/WriteData64K 0 0 5 1 8 3 19 20
+
+RELAY_OPERATION 35840
+/root/BBB_INTEL_HEX_FORMAT_SPI/WriteData64K "$@"

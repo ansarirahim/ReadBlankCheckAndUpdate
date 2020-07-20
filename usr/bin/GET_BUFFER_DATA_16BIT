@@ -1,0 +1,4 @@
+#!/bin/bash
+/root/BBB_INTEL_HEX_FORMAT_SPI/GetBufferData16   "$@"
+#/root/BBB_INTEL_HEX_FORMAT_SPI//GetBufferData16 0010603_NVM.HEX 36 51 16^C
+

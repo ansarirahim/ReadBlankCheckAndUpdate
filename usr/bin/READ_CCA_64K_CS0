@@ -1,0 +1,3 @@
+#!/bin/bash
+RELAY_SP1_SET_CS0
+READ_CCA_MEMORY64K "$@"

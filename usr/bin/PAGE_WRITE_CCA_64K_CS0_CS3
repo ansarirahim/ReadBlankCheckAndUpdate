@@ -1,0 +1,5 @@
+#!/bin/bash
+
+RELAY_OPERATION  35844
+/root/BBB_INTEL_HEX_FORMAT_SPI/pageWriteFF64K "$@"
+

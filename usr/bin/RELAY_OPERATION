@@ -1,0 +1,4 @@
+#!/bin/bash
+config-pin P8.08 high
+/root/RElays/Relay16 "$@"
+config-pin P8.08 low

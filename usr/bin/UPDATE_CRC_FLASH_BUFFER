@@ -1,0 +1,4 @@
+#!/bin/bash
+/root/BBB_SPI_Flash_EEPROM_Porgrammer/SourceFlashBufferCRC/main
+#/root/CLem/SourceFlashBufferCRC/main
+####/root/CLem/CRcFlash/main

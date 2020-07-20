@@ -1,0 +1,4 @@
+#!/bin/bash
+RELAY_OPERATION  38916
+
+ /root/BBB_INTEL_HEX_FORMAT_SPI/WriteIntelHexToNVM "$@"

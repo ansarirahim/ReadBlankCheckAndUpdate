@@ -1,0 +1,3 @@
+#!/bin/bash
+RELAY_OPERATION 19464
+/root/BBB_INTEL_HEX_FORMAT_SPI/Write64K "$@"

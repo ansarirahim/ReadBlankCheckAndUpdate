@@ -1,0 +1,2 @@
+#!/bin/bash
+/root/BBB_INTEL_HEX_FORMAT_SPI/checkMd5sum "$@"

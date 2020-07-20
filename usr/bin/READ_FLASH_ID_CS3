@@ -1,0 +1,4 @@
+#!/bin/bash
+#RELAY_SP1_SET + cs1
+RELAY_OPERATION  3076
+/root/BBB_SPI_ReadFlashID/main

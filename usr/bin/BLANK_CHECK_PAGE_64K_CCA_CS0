@@ -1,0 +1,2 @@
+#!/bin/bash
+/root/CRc41Flash/blanckPageCheckAndFF64K "$@"

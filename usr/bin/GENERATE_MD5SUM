@@ -1,0 +1,6 @@
+#!/bin/bash
+
+/root/BBB_INTEL_HEX_FORMAT_SPI/updateChksum "$@"
+
+#/root/BBB_INTEL_HEX_FORMAT_SPI/ | tee /root/BBB_INTEL_HEX_FORMAT_SPI/_md5sum
+#md5sum * | tee md5sum.txt
